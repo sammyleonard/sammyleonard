@@ -10,10 +10,10 @@
 
 
 
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
+<h2 align="left"> Tech Stack & Tools</h2>
 
 <!-- Frontend -->
-<h3 align="left">🎨 Frontend (Languages & Core Tech)</h3>
+<h3 align="left"> Frontend (Languages & Core Tech)</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -30,7 +30,7 @@
 </p>
 
 <!-- Frameworks -->
-<h3 align="left">🚀 Frameworks</h3>
+<h3 align="left"> Frameworks</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -44,7 +44,7 @@
 </p>
 
 <!-- Backend  -->
-<h3 align="left">⚙️ Backend & Runtimes</h3>
+<h3 align="left"> Backend & Runtimes</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -67,7 +67,7 @@
 </p>
 
 <!-- Databases & Query Languages -->
-<h3 align="left">🗄️ Database & API Query Layers</h3>
+<h3 align="left"> Database & API Query Layers</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -78,7 +78,7 @@
 </p>
 
 <!-- Libraries -->
-<h3 align="left">📚 Data Science & Machine Learning Libraries</h3>
+<h3 align="left"> Data Science & Machine Learning Libraries</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -86,16 +86,16 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
 
 <!-- Infrastructure & DevOps Tools -->
-<h3 align="left">🛠️ Infrastructure, Cloud & DevOps</h3>
+<h3 align="left"> Infrastructure, Cloud & DevOps</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
