@@ -67,7 +67,7 @@
 </p>
 
 <!-- Databases & Query Languages -->
-<h3 align="right">🗄️ Database & API Query Layers</h3>
+<h3 align="left">🗄️ Database & API Query Layers</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -78,7 +78,7 @@
 </p>
 
 <!-- Libraries -->
-<h3 align="right">📚 Data Science & Machine Learning Libraries</h3>
+<h3 align="left">📚 Data Science & Machine Learning Libraries</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -87,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://www.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -95,7 +95,7 @@
 </p>
 
 <!-- Infrastructure & DevOps Tools -->
-<h3 align="right">🛠️ Infrastructure, Cloud & DevOps</h3>
+<h3 align="left">🛠️ Infrastructure, Cloud & DevOps</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
