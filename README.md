@@ -4,7 +4,7 @@
 <html>
   <head><h1>SAMMY LEONARD</h1><head>
     <body>
-<h3 align="center" style="color: lightgreen;">A computer science undergraduate currently working on full-stack web development, database optimization, and technical diagnostics. Hands-on experience building structured user interfaces integrating data systems and artificial intelligence implementations. I'm ready to coordinate project workflows, and adapt quickly to emerging tech stacks.</h3>
+<h3 align="center" >A computer science undergraduate currently working on full-stack web development, database optimization, and technical diagnostics. Hands-on experience building structured user interfaces integrating data systems and artificial intelligence implementations. I'm ready to coordinate project workflows, and adapt quickly to emerging tech stacks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyleonard&label=Profile%20views&color=0e75b6&style=flat" alt="sammyleonard" /> </p>
 
