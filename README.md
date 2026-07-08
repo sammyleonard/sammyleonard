@@ -13,7 +13,7 @@
 <h2 align="left"> Tech Stack & Tools</h2>
 
 <!-- Frontend -->
-<h3 align="left"> Frontend (Languages & Core Tech)</h3>
+<h3 align="left"> Frontend </h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
