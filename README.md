@@ -3,7 +3,6 @@
 <html>
   <head><h1>SAMMY LEONARD</h1><head>
     <body>
-       About Me
 
 A computer science undergraduate currently working on full-stack web development, database optimization, and technical diagnostics. Hands-on experience building structured user interfaces integrating data systems and artificial intelligence implementations. I'm ready to coordinate project workflows, and adapt quickly to emerging tech stacks.
 
@@ -71,10 +70,6 @@ A computer science undergraduate currently working on full-stack web development
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyleonard&show_icons=true&locale=en" alt="sammyleonard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p>
-</body>
-</html>
-
-
 
 
  Contribution Graph
@@ -103,15 +98,5 @@ A computer science undergraduate currently working on full-stack web development
 <p align="center"><i>⭐️ From <a href="https://github.com/sammyleonard">sammyleonard</a></i></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyleonard&label=Profile%20views&color=0e75b6&style=flat" alt="sammyleonard" /> </p>
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>
