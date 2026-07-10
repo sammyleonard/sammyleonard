@@ -63,7 +63,7 @@ A computer science undergraduate currently working on full-stack web development
 
 
 
- Contribution Graph
+ <h3> Contribution Graph </h3>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammyleonard&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
@@ -71,7 +71,7 @@ A computer science undergraduate currently working on full-stack web development
 
 
 
- GitHub Stats
+<h3>  GitHub Stats </h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sammyleonard&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
@@ -89,8 +89,7 @@ A computer science undergraduate currently working on full-stack web development
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p>
 
 
- Dev Quote
-
+ <h3> Dev Quote </h3>
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
