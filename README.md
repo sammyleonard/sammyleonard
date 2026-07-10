@@ -91,7 +91,7 @@ A computer science undergraduate currently working on full-stack web development
 
  Dev Quote
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
