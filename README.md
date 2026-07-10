@@ -78,13 +78,16 @@ A computer science undergraduate currently working on full-stack web development
 </p>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sammyleonard&label=Profile%20views&color=0e75b6&style=flat" alt="sammyleonard" /> </p>
-
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=sammyleonard&label=Profile%20views&color=0e75b6&style=flat" alt="sammyleonard" /> </p>
+<p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyleonard&show_icons=true&locale=en&layout=compact" alt="sammyleonard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyleonard&show_icons=true&locale=en" alt="sammyleonard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p>
+</p>
+
   <h3> Dev Quote </h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
