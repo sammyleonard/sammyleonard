@@ -90,8 +90,9 @@ A computer science undergraduate currently working on full-stack web development
 
 
  
-<p align="left">
   <h3> Dev Quote </h3>
+  
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
