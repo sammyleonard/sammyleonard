@@ -63,15 +63,6 @@ A computer science undergraduate currently working on full-stack web development
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyleonard&label=Profile%20views&color=0e75b6&style=flat" alt="sammyleonard" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyleonard&show_icons=true&locale=en&layout=compact" alt="sammyleonard" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyleonard&show_icons=true&locale=en" alt="sammyleonard" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p>
-
-
  Contribution Graph
 
 <p align="center">
@@ -87,6 +78,16 @@ A computer science undergraduate currently working on full-stack web development
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sammyleonard&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
   
 </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sammyleonard&label=Profile%20views&color=0e75b6&style=flat" alt="sammyleonard" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyleonard&show_icons=true&locale=en&layout=compact" alt="sammyleonard" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyleonard&show_icons=true&locale=en" alt="sammyleonard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p>
+
 
  Dev Quote
 
