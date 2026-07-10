@@ -64,9 +64,9 @@ A computer science undergraduate currently working on full-stack web development
 
 
  
-
+  <h3 align="center> Contribution Graph </h3>
 <p align="center">
-  <h3> Contribution Graph </h3>
+
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammyleonard&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
