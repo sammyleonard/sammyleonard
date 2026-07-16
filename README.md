@@ -6,7 +6,9 @@
 
 A computer science undergraduate currently working on full-stack web development, database optimization, and technical diagnostics. Hands-on experience building structured user interfaces integrating data systems and artificial intelligence implementations. I'm ready to coordinate project workflows, and adapt quickly to emerging tech stacks.
 
+
 <h3> TECH STACK </h3> 
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
