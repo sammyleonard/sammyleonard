@@ -86,7 +86,7 @@ A computer science undergraduate currently working on full-stack web development
 <p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyleonard&show_icons=true&locale=en&layout=compact" alt="sammyleonard" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyleonard&show_icons=true&locale=en" alt="sammyleonard" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard"/p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard"/p>
 </p>
 
 
