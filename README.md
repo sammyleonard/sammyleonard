@@ -88,7 +88,11 @@ A computer science undergraduate currently working on full-stack web development
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyleonard&show_icons=true&locale=en" alt="sammyleonard" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" /></p>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyleonard&" alt="sammyleonard" />
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammyleonard&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
   <h3> Dev Quote </h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
